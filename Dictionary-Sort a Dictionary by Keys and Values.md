@@ -39,6 +39,7 @@ for key, value in sorted_items:
 ```
 ## Sample Output
 <img width="961" height="218" alt="image" src="https://github.com/user-attachments/assets/9de1ae7c-d5b8-49b8-9c85-77a0bb258ff5" />
+<img width="962" height="219" alt="image" src="https://github.com/user-attachments/assets/a76f9d55-8d12-49db-ad69-bfce82b093d6" />
 
 ## Result
 Thus the program executed successfully.
