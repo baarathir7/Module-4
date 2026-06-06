@@ -26,7 +26,13 @@ except IndexError:
     print("check index range")
 
 ## Output
-<img width="957" height="246" alt="438930470-b2acd206-0aeb-4ec2-a40f-e911fa9e5066" src="https://github.com/user-attachments/assets/66d2bd29-3a89-4f23-bc03-47f5c6faa000" />
+
+<img width="957" height="246" alt="438930470-b2acd206-0aeb-4ec2-a40f-e911fa9e5066" src="https://github.com/user-attachments/assets/910b3896-629e-4bde-9518-e02fc3c73ffe" />
+## Result
+Thus the program executed successfully.
+
+
+
 
 ## Result
 Thus the program executed successfully.
