@@ -24,12 +24,15 @@ try:
 
 except IndexError:
     print("check index range")
-
+```
 ## Output
-
-<img width="957" height="246" alt="438930470-b2acd206-0aeb-4ec2-a40f-e911fa9e5066" src="https://github.com/user-attachments/assets/910b3896-629e-4bde-9518-e02fc3c73ffe" />
-## Result
+<img width="957" height="246" alt="438930470-b2acd206-0aeb-4ec2-a40f-e911fa9e5066" src="https://github.com/user-attachments/assets/321abbd2-9298-4f2b-81e2-6f03fa8ace69" />
+##Result
 Thus the program executed successfully.
+
+
+
+
 
 
 
